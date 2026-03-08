@@ -106,14 +106,6 @@ The proof-of-concept renders everything procedurally. The full interactive insta
 
 Processing time per print: 2–4 minutes on a 24GB GPU.
 
----
-
-## Installation requirements
-
-- 1× GPU workstation (24GB VRAM)
-- Inkjet printer
-- Touchscreen kiosk
-- 6ft × 8ft wall for print accumulation
 
 ---
 
@@ -130,7 +122,4 @@ docs/
 
 ---
 
-## License
 
-Code: MIT  
-Artwork and artist statement: All rights reserved
