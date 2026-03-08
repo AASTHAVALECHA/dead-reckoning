@@ -1,7 +1,5 @@
 # DEAD RECKONING
 ### an interactive installation navigating toward loss
-#### CVPR AI Art Gallery 2026
-
 ---
 
 > *"Dead reckoning: to calculate where you are by using knowledge of your speed,  
@@ -47,23 +45,14 @@ All 17 scenes, rendered at full resolution:
 
 | Scene | Participant text |
 |-------|-----------------|
-| Two Glasses, Late Afternoon *(primary)* | my father's laugh at the end of a joke I can't remember |
 | Empty Swing | something left swinging in the yard after |
-| Phone Booth | her number still in my head after six years |
 | Hospital Window | the last thing she looked at from that room |
 | Lighthouse | the summer we found it and thought we'd come back |
 | Train Window | I don't remember when I stopped turning to look |
-| Diving Board | we never went back after that summer |
-| Murmuration | how they would move through a room |
 | First Snow | the morning before everything changed |
-| Carnival Closing | sitting on the hood of the car watching |
 | Eclipse | we drove four hours to stand in a field |
-| Greenhouse | she could name every plant in there |
 | Empty Cinema | every film we saw in that seat, row F |
-| Glacier | the scale of what we cannot hold onto |
-| Operating Theatre | what the ceiling looks like from that table |
 | Highway 3AM | driving back when there was nothing left to say |
-| Tide Pool | the things that live in that small world |
 
 ---
 
